@@ -14,8 +14,8 @@ Actividad 1
 
 5. [Herramientas de Google:](https://google.com "enlace a google")
 
-|--------------|-----:|
 |**Aplicaciones**|**Visto**|
+|--------------|-----|
 |Google Docs|✓|
 |Google Slides|✓|
 |Google Sheets|✓|
