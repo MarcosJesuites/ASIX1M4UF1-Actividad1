@@ -14,7 +14,7 @@ Actividad 1
 
 5. [Herramientas de Google:](https://google.com "enlace a google")
 
-|--------------|-----|
+|--------------|:-----:|
 |**Aplicaciones**|**Visto**|
 |Google Docs|✓|
 |Google Slides|✓|
@@ -39,3 +39,4 @@ Actividad 1
 7. ¿Que es CSS?
 
 8. Flujo de trabajo (navejador,petición, servidor y respuesta):
+![Imagen del flujo](https://github.com/MarcosJesuites/ASIX1M4UF1-Actividad1/blob/40423b1011971970f6cbff718dbac77496beae5a/Flujo%20de%20Primera%20actvidad.png "titulo opcional para la imagen")
